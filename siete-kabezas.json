@@ -1,32 +1,32 @@
 {"name": "Siete Kabezas",
  "children": [
-             {"name": "1",
+             {"name": "1 Zonas Ocupadas en periferia (Santiago Invisible)",
               "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          {"name": "Ámbitos",
+                          "children": [ {"name": "ataques a comisarías", "size": 1005},
+                                        {"name": "turbazos a supermercados, locales comerciales", "size": 1004},
+                                        {"name": "narcotráfico", "size": 1003},
+                                        {"name": "falta de servicios", "size": 1002},
+                                        {"name": "vivienda precaria", "size": 1001}
                                       ]
                           }
                           ]
              }, 
-             {"name": "2",
+             {"name": "2 Secundarios radicalizados (2006- 2011)",
               "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          {"name": "Ámbitos",
+                          "children": [ {"name": "evasión en Metro", "size": 1005},
+                                        {"name": "ataques con molotov a personas (ver documental Actores Secundarios)", "size": 1004},
+                                        {"name": "destrucción de infraestructura (ver capítulo City Tour en Liceo de Aplicación", "size": 1003},
+                                        {"name": "2006", "size": 1002},
+                                        {"name": "2011", "size": 1001}
                                       ]
                           }
                           ]
              }, 
              {"name": "3",
               "children": [
-                          {"name": "KM - Latch",
+                          {"name": "Ámbitos",
                           "children": [ {"name": "Location", "size": 1005},
                                         {"name": "Alphabetic", "size": 1004},
                                         {"name": "Timeline", "size": 1003},
