@@ -24,59 +24,62 @@
                           }
                           ]
              }, 
-             {"name": "3",
+             {"name": "3 Barras Bravas (mayor fuerza en la calle)",
               "children": [
                           {"name": "Ámbitos",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          "children": [ {"name": "turbazos cerca de estadios", "size": 1005},
+                                        {"name": "toma de zonas periféricas", "size": 1004},
+                                        {"name": "fuegos artificiales", "size": 1003},
+                                        {"name": "piños urbanos", "size": 1002},
+                                        {"name": "falta de sentido de vida", "size": 1001}
                                       ]
                           }
                           ]
              }, 
-             {"name": "4",
+             {"name": "4 Sectores políticos oportunistas",
               "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          {"name": "Ámbitos",
+                          "children": [ {"name": "PC", "size": 1005},
+                                        {"name": "FA", "size": 1004},
+                                        {"name": "parte de antigua NM", "size": 1003},
+                                        {"name": "impulso de agenda que no pasó por proceso de votaciones", "size": 1002},
+                                        {"name": "vivien en zonas protegidas de clase alta", "size": 1001}
                                       ]
                           }
                           ]
              }, 
-             {"name": "5",
+             {"name": "5 Clases Medias (mayor cantidad)",
               "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          {"name": "Ámbitos",
+                          "children": [ {"name": "posibilidad de lograr metas importantes en equidad", "size": 1005},
+                                        {"name": "mejores pensiones", "size": 1004},
+                                        {"name": "salud digna", "size": 1003},
+                                        {"name": "mejor trato", "size": 1002},
+                                        {"name": "expectativas en proceso constituyente", "size": 1001}
                                       ]
                           }
                           ]
              }, 
-             {"name": "6",
+             {"name": "6 Grupos de elite",
               "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          {"name": "Ámbitos",
+                          "children": [ {"name": "es el grupo menos claro en su descripción", "size": 1005},
+                                        {"name": "segmento clase alta (cultura caviar), desprecio por el consumo", "size": 1004},
+                                        {"name": "segmento de artistas y actores culturales", "size": 1003},
+                                        {"name": "validación de violencia", "size": 1002},
+                                        {"name": "asimilación de gravedad de acciones (quemar infraestructura vs mutilación visual)", "size": 1001}
                                       ]
                           }
                           ]
              }, 
-             {"name": "7",
-              "children": [ {"name": "Water", "size": 2001},
-                            {"name": "xtream Situations", "size": 2002},
-                            {"name": "Drones", "size": 2003},
-                            {"name": "Otros", "size": 2004}
+             {"name": "7 La cabeza sin aparecer o ser descubierta",
+              "children": [ 
+                          {"name": "Ámbitos",
+                          "children": [ {"name": "coordinación de ataques a estaciones de Metro", "size": 1005},
+                                        {"name": "coordinación de saqueos", "size": 1004},
+                                        {"name": "coordinación de incendios", "size": 1003},
+                                        {"name": "cabeza de menor escala de que se ha propuesto a veces", "size": 1002},
+                                        {"name": "no es cabeza operada desde extranjero", "size": 1001}
                           ]
              }
              ]
